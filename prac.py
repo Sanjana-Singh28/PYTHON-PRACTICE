@@ -15,8 +15,6 @@
 # n=("enter any string")
 # for ch in n:
 #     s=n.replace(" ","")
-
-
 # print("the string without spaces is : ", s)
 
 
